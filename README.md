@@ -4,11 +4,11 @@
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
 <img align="right" alt="coding" width="400"  src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"> 
-- 🌱 I’m currently learning **Nuxt**
+- 🌱 I’m currently work as Vue js Developer
 
 - 👨‍💻 All of my projects are available at [https://myportofolio-zeta.vercel.app/](https://myportofolio-zeta.vercel.app/)
 
-- 💬 Ask me about **Vue,Nuxt3,Ts,Php,Codeigniter,and Gsap**
+- 💬 Ask me about **Vue,Nuxt3**
 
 - ⚡ Fun fact **I like playing guitar**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andsr157&label=Profile%20views&color=0e75b6&style=flat" alt="andsr157" /> </p>
